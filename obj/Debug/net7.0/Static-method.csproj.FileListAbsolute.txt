@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/Static-method/bin/Debug/net7.0/Static-method
+/Users/macos/Desktop/Operator/Static-method/bin/Debug/net7.0/Static-method.deps.json
+/Users/macos/Desktop/Operator/Static-method/bin/Debug/net7.0/Static-method.runtimeconfig.json
+/Users/macos/Desktop/Operator/Static-method/bin/Debug/net7.0/Static-method.dll
+/Users/macos/Desktop/Operator/Static-method/bin/Debug/net7.0/Static-method.pdb
+/Users/macos/Desktop/Operator/Static-method/obj/Debug/net7.0/Static-method.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/Static-method/obj/Debug/net7.0/Static-method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/Static-method/obj/Debug/net7.0/Static-method.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/Static-method/obj/Debug/net7.0/Static-method.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/Static-method/obj/Debug/net7.0/Static-method.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/Static-method/obj/Debug/net7.0/Static-method.dll
+/Users/macos/Desktop/Operator/Static-method/obj/Debug/net7.0/refint/Static-method.dll
+/Users/macos/Desktop/Operator/Static-method/obj/Debug/net7.0/Static-method.pdb
+/Users/macos/Desktop/Operator/Static-method/obj/Debug/net7.0/Static-method.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/Static-method/obj/Debug/net7.0/ref/Static-method.dll
